@@ -17,8 +17,8 @@ A responsive quiz web application built with HTML, CSS, and JavaScript, deployed
 - **Netlify** for easy deployment  
 
 ## Screenshots
-![Desktop View](Desktop View.png)  
-![Mobile View](Mobile View.JPG)  
+![Desktop View](./public/Desktop%20View.png)  
+![Mobile View](./public/Mobile%20View.JPG)  
 
 ## Usage
 1. Clone this repo:
