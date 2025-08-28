@@ -21,6 +21,7 @@ A responsive quiz web application built with HTML, CSS, and JavaScript, deployed
 
 ## Screenshots
 
+![Desktop View](./public//Desktop%20View.png) 
 ![Mobile View](./public/Mobile%20View.JPG)
 
 ## Usage
